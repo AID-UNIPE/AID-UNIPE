@@ -10,7 +10,7 @@
 1. [Quem somos](#1-quem-somos)
 2. [Missão e visão](#2-missão-e-visão)
 3. [Inclusão digital](#3-inclusão-digital)
-4. [O acesso a computadores no Brasil](#4-o-acesso-a-computadores-no-brasil)
+4. [O acesso a computadores no Brasil](#4-o-acesso-a-computadores-e-internet-no-brasil)
 5. [Resíduos eletroeletrônicos](#5-resíduos-eletroeletrônicos)
 6. [Novo marco regulatório brasileiro](#6-novo-marco-regulatório-brasileiro)
 7. [Onde estamos](#7-onde-estamos)
@@ -52,7 +52,13 @@ Este movimento social tem o poder de: fechar a lacuna entre os países desenvolv
 
 No total de domicílios, aqueles em que havia microcomputador representavam 41,7%, em 2018, e 40,6%, em 2019. De 2018 para 2019, esse percentual caiu de 46,0% para 44,8%, em área urbana, enquanto que, em área rural, a diminuição foi de 14,3% para 13,1%.
 
-![ibge](https://educa.ibge.gov.br/images/educa/jovens/materias-especiais/TIC2019/tic_atualizacao_internet_jovens_001.jpg)
+Em 2019, a Internet era utilizada em 82,7% dos domicílios brasileiros. A maior parte desses domicílios fica concentrada nas áreas urbanas das Grandes Regiões do país, conforme mostra o gráfico abaixo:
+
+![ibge1](tic_atualizacao_internet_jovens_001.jpg)
+
+Confira no gráfico a distribuição dos motivos para a não utilização da Internet entre domicílios de áreas urbanas e rurais:
+
+![ibge1](tic_atualizacao_internet_jovens_002.jpg)
 
 ## 5. Resíduos eletroeletrônicos
 
