@@ -25,6 +25,12 @@ APRESENTAÇÃO DO PROJETO APOIO À INCLUSÃO DIGITAL DO CENTRO UNIVERSITÁRIO DE
 * José Lopes Sobrinho Neto
 * Vinícius B. C. Centurion
 
-## 2. Missão
+## 2. Missão e visão
+
+Nossa missão:
 
 > Apoiar inclusão digital através da coleta, recuperação e reaproveitamento  de computadores e seus componentes, para posterior doação, promovendo conscientização, educação, sustentabilidade e responsabilidade social.
+
+Nossa visão:
+
+> Ser referência no Estado da Paraíba em reaproveitamento de equipamentos de informática, montagem e manutenção de computadores para doação a pessoas carentes.
