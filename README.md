@@ -7,7 +7,7 @@
 
 ## Sumário
 
-1. [Quem somos](#Quem-somos)
+1. [Quem somos](#1.-Quem-somos)
 2. <a href="missao">Missão e visão</a>
 3. <a href="inclusao">Inclusão digital</a>
 4. <a href="computadores">O acesso a computadores no Brasil</a>
@@ -16,7 +16,7 @@
 7. <a href="localizacao">Onde estamos</a>
 8. <a href="contato">Fale conosco</a>
 
-## Quem somos
+## 1. Quem somos
 
 **Coordenação**
 * UBTECH TI
