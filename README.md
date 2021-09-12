@@ -34,6 +34,10 @@
 
 O projeto tem como objetivo capacitar os discentes estagiários e voluntários em montagem e manuteção de computadores para que possam auxiliar na reciclagem, reutilização e doação dos equipamentos recuperados à comunidade. Também visa incentivar a conscientização da coleta e descarte adequado de equipamentos de computação (e demais eletroeletrônicos), estabelecendo parcerias com Empresas Privadas e órgãos da Administração Pública.
 
+![equipe](equipe.png)
+
+Criado há mais de 15 anos, o projeto já reparou e doou mais de 2000 computadores para sociedade.
+
 ## 2. Missão e visão
 
 Nossa missão:
