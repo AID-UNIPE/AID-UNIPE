@@ -30,6 +30,10 @@
 * José Lopes Sobrinho Neto
 * Vinícius B. C. Centurion
 
+**Discentes Estágiários e Voluntários**
+
+O projeto tem como objetivo capacitar os discentes estagiários e voluntários em montagem e manuteção de computadores para que possam auxiliar na reciclagem, reutilização e doação dos equipamentos recuperados à comunidade. Também visa incentivar a conscientização da coleta e descarte adequado de equipamentos de computação (e demais eletroeletrônicos), estabelecendo parcerias com Empresas Privadas e órgãos da Administração Pública.
+
 ## 2. Missão e visão
 
 Nossa missão:
@@ -67,6 +71,10 @@ O Brasil é o quinto maior gerador de resíduos eletroeletrônicos do mundo e o 
 Em 2019, foram geradas 2,1 milhões de toneladas no país, o equivalente a 10,2 kg por habitante.
 
 ![residuos](https://exame.com/wp-content/uploads/2018/02/e-waste.jpg)
+
+### Impactos ambientais por metais pesados:
+
+Placas e demais circuitos eletrônicos de equipamentos possuem quantidades significativas de metais pesados — especialmente mercúrio, chumbo e cádmio. Este é um dos principais danos ambientais causados pelo lixo eletrônico ao meio ambiente, pois tratam-se de substâncias altamente poluentes e que afetam tanto a qualidade do solo quanto da água, dos rios quer e dos lençóis freáticos.
 
 ## 6. Novo marco regulatório brasileiro
 
