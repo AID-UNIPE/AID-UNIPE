@@ -4,14 +4,14 @@ APRESENTAÇÃO DO PROJETO APOIO À INCLUSÃO DIGITAL DO CENTRO UNIVERSITÁRIO DE
 
 ## Sumário
 
-* Quem somos
-* Missão e visão
-* O acesso a computadores no Brasil
-* Resíduos eletroeletrônicos
-* Onde estamos
-* Fale conosco
+1. Quem somos
+1. Missão e visão
+1. O acesso a computadores no Brasil
+1. Resíduos eletroeletrônicos
+1. Onde estamos
+1. Fale conosco
 
-## Quem somos
+## 1. Quem somos
 
 **Coordenação**
 * UBTECH TI
@@ -21,6 +21,6 @@ APRESENTAÇÃO DO PROJETO APOIO À INCLUSÃO DIGITAL DO CENTRO UNIVERSITÁRIO DE
 * José Lopes Sobrinho Neto
 * Vinícius B. C. Centurion
 
-## Missão
+## 2. Missão
 
 > Apoiar inclusão digital através da coleta, recuperação e reaproveitamento  de computadores e seus componentes, para posterior doação, promovendo conscientização, educação, sustentabilidade e responsabilidade social.
