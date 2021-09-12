@@ -10,11 +10,11 @@
 1. [Quem somos](#1-quem-somos)
 2. [Missão e visão](#2-missão-e-visão)
 3. [Inclusão digital](#3-inclusão-digital)
-4. [O acesso a computadores no Brasil](#3-O-acesso-a-omputadores-no-Brasil)
-5. [Resíduos eletroeletrônicos](#3-Resíduos-eletroeletrônicos)
-6. [Novo marco regulatório brasileiro](#3-Novo-marco-regulatório-brasileiro)
-7. [Onde estamos](#3-Onde-estamos)
-8. [Fale conosco](#3-Fale-conosco)
+4. [O acesso a computadores no Brasil](#4-o-acesso-a-omputadores-no-brasil)
+5. [Resíduos eletroeletrônicos](#5-resíduos-eletroeletrônicos)
+6. [Novo marco regulatório brasileiro](#6-novo-marco-regulatório-brasileiro)
+7. [Onde estamos](#7-onde-estamos)
+8. [Fale conosco](#8-fale-conosco)
 
 ## 1. Quem somos
 
