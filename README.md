@@ -9,12 +9,12 @@
 
 1. [Quem somos](#1-quem-somos)
 2. [Missão e visão](#2-missão-e-visão)
-3. [Inclusão digital](#3-inclusao-digital)
-4. <a href="computadores">O acesso a computadores no Brasil</a>
-5. <a href="residuos">Resíduos eletroeletrônicos</a>
-6. <a href="marcolegal">Novo marco regulatório brasileiro</a>
-7. <a href="localizacao">Onde estamos</a>
-8. <a href="contato">Fale conosco</a>
+3. [Inclusão digital](#3-inclusão-digital)
+4. [O acesso a computadores no Brasil](#3-O-acesso-a-omputadores-no-Brasil)
+5. [Resíduos eletroeletrônicos](#3-Resíduos-eletroeletrônicos)
+6. [Novo marco regulatório brasileiro](#3-Novo-marco-regulatório-brasileiro)
+7. [Onde estamos](#3-Onde-estamos)
+8. [Fale conosco](#3-Fale-conosco)
 
 ## 1. Quem somos
 
