@@ -10,7 +10,7 @@
 1. [Quem somos](#1-quem-somos)
 2. [Missão e visão](#2-missão-e-visão)
 3. [Inclusão digital](#3-inclusão-digital)
-4. [O acesso a computadores no Brasil](#4-o-acesso-a-omputadores-no-brasil)
+4. [O acesso a computadores no Brasil](#4-o-acesso-a-computadores-no-brasil)
 5. [Resíduos eletroeletrônicos](#5-resíduos-eletroeletrônicos)
 6. [Novo marco regulatório brasileiro](#6-novo-marco-regulatório-brasileiro)
 7. [Onde estamos](#7-onde-estamos)
@@ -42,6 +42,8 @@ Nossa visão:
 
 ## 3. Inclusão digital
 
+![inclusao](https://apadep.org.br/wp-content/uploads/2020/06/WhatsApp-Image-2020-06-09-at-15.51.27.jpeg)
+
 Um movimento social cujo objetivo é acabar com a exclusão digital, termo usado para descrever o fato de que o mundo pode ser dividido em pessoas que têm e pessoas que não têm acesso às modernas tecnologias da informação (TI).
 
 Este movimento social tem o poder de: fechar a lacuna entre os países desenvolvidos e os menos desenvolvidos; promover a democracia e a compreensão mútua; e empoderar os indivíduos desfavorecidos, como os pobres, os deficientes e os desempregados (Norris, 2001; Baxter et al., 1975).
@@ -56,6 +58,8 @@ O Brasil é o quinto maior gerador de resíduos eletroeletrônicos do mundo e o 
 
 Em 2019, foram geradas 2,1 milhões de toneladas no país, o equivalente a 10,2 kg por habitante.
 
+![residuos](https://exame.com/wp-content/uploads/2018/02/e-waste.jpg)
+
 ## 6. Novo marco regulatório brasileiro
 
 > Art. 31. São obrigações dos consumidores no âmbito do sistema de logística reversa de que trata este Decreto:<br>
@@ -67,13 +71,12 @@ Em 2019, foram geradas 2,1 milhões de toneladas no país, o equivalente a 10,2 
 
 Chegue até nós:
 
-Coletor: [localização](https://goo.gl/maps/NYeDFqc5wgb9vMBy5)
-
-Oficina Digital: [localização](https://goo.gl/maps/PdgqyFuJV7rjLacV6)
+:pushpin: Coletor: [localização](https://goo.gl/maps/NYeDFqc5wgb9vMBy5)<br>
+:pushpin: Oficina Digital: [localização](https://goo.gl/maps/PdgqyFuJV7rjLacV6)
 
 ![Onde estamos](/onde_estamos.png)
 
-##8. Fale conosco
+## 8. Fale conosco
 
 INSTAGRAM: [@aid_unipejp](https://www.instagram.com/aid_unipejp)
 
