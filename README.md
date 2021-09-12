@@ -16,7 +16,7 @@
 7. <a href="localizacao">Onde estamos</a>
 8. <a href="contato">Fale conosco</a>
 
-<div id="quemsomos"><h2>1. Quem somos</h2><div>
+<div id="quemsomos"><h2>1. Quem somos</h2></div>
 
 **Coordenação**
 * UBTECH TI
