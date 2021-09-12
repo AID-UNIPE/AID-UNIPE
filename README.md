@@ -15,9 +15,13 @@ APRESENTAÇÃO DO PROJETO APOIO À INCLUSÃO DIGITAL DO CENTRO UNIVERSITÁRIO DE
 
 **Coordenação**
 * UBTECH TI
+
 **Docente coordenador**
+
 * Prof. Me. Viviano de Sousa Medeiros
+
 **Discentes Coordenadores**
+
 * José Lopes Sobrinho Neto
 * Vinícius B. C. Centurion
 
