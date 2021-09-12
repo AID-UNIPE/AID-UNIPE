@@ -55,9 +55,12 @@ Em 2019, foram geradas 2,1 milhões de toneladas no país, o equivalente a 10,2 
 ## 1. Novo marco regulatório brasileiro
 
 > Art. 31. São obrigações dos consumidores no âmbito do sistema de logística reversa de que trata este Decreto:
->> I - segregar e armazenar os produtos eletroeletrônicos separadamente das outras frações de resíduos sólidos, para a manutenção de sua integridade física e prevenção de riscos à saúde humana ou de danos ao meio ambiente;
->> II - remover, previamente ao descarte, as informações e os dados privados e os programas em que eles estejam armazenados nos produtos eletroeletrônicos, discos rígidos, cartões de memória e estruturas semelhantes, quando existentes; e
->> III - descartar os produtos eletroeletrônicos de forma adequada e desligados, nos pontos de recebimento específicos do sistema de logística reversa, observados os procedimentos e as orientações relativas aos descartes constantes dos manuais dos produtos, do manual operacional básico ou dos demais meios de comunicação previstos no art. 43.
+
+> I - segregar e armazenar os produtos eletroeletrônicos separadamente das outras frações de resíduos sólidos, para a manutenção de sua integridade física e prevenção de riscos à saúde humana ou de danos ao meio ambiente;
+
+> II - remover, previamente ao descarte, as informações e os dados privados e os programas em que eles estejam armazenados nos produtos eletroeletrônicos, discos rígidos, cartões de memória e estruturas semelhantes, quando existentes; e
+
+> III - descartar os produtos eletroeletrônicos de forma adequada e desligados, nos pontos de recebimento específicos do sistema de logística reversa, observados os procedimentos e as orientações relativas aos descartes constantes dos manuais dos produtos, do manual operacional básico ou dos demais meios de comunicação previstos no art. 43.
 
 ## 1. Onde estamos
 
