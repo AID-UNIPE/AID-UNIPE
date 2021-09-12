@@ -1,7 +1,9 @@
 # AID-UNIPE
 
+![unipe](/unipe.png)
 
-APRESENTAÇÃO DO PROJETO APOIO À INCLUSÃO DIGITAL DO CENTRO UNIVERSITÁRIO DE JOÃO PESSOA.
+
+**APRESENTAÇÃO DO PROJETO:<br>APOIO À INCLUSÃO DIGITAL DO CENTRO UNIVERSITÁRIO DE JOÃO PESSOA.**
 
 ## Sumário
 
@@ -63,7 +65,7 @@ Em 2019, foram geradas 2,1 milhões de toneladas no país, o equivalente a 10,2 
 
 ## 7. Onde estamos
 
-
+![Onde estamos](/onde_estamos.png)
 
 ## 8. Fale conosco
 
