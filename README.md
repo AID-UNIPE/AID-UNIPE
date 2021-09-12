@@ -48,9 +48,11 @@ Um movimento social cujo objetivo é acabar com a exclusão digital, termo usado
 
 Este movimento social tem o poder de: fechar a lacuna entre os países desenvolvidos e os menos desenvolvidos; promover a democracia e a compreensão mútua; e empoderar os indivíduos desfavorecidos, como os pobres, os deficientes e os desempregados (Norris, 2001; Baxter et al., 1975).
 
-## 4. O acesso a computadores no Brasil
+## 4. O acesso a computadores e internet no Brasil
 
 No total de domicílios, aqueles em que havia microcomputador representavam 41,7%, em 2018, e 40,6%, em 2019. De 2018 para 2019, esse percentual caiu de 46,0% para 44,8%, em área urbana, enquanto que, em área rural, a diminuição foi de 14,3% para 13,1%.
+
+![ibge](https://educa.ibge.gov.br/images/educa/jovens/materias-especiais/TIC2019/tic_atualizacao_internet_jovens_001.jpg)
 
 ## 5. Resíduos eletroeletrônicos
 
