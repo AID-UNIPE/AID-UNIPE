@@ -99,9 +99,11 @@ Chegue até nós:
 
 ## 8. Fale conosco
 
-![instagram](/qr-codes/300x300/insta.jpg)
+Entre em contato através de nossas redes sociais:
 
 INSTAGRAM: [@aid_unipejp](https://www.instagram.com/aid_unipejp)
+
+![instagram](/qr-codes/300x300/insta.jpg)
 
 ## 9. DOAÇÕES
 
@@ -110,7 +112,3 @@ Doe os equipamentos de informática de sua organização e ajude a levar inclus�
 Os equipamentos podem ser deixados diretamente em nosso coletor, localizado no campus do UNIPÊ, ou ainda, entrando em contato conosco através do whatsapp.
 
 ![whatsapp](/qr-codes/300x300/doe.jpg)
-
-
-
-UNIPE: [Serviços à comunidade](https://www.unipe.edu.br/servicos-a-comunidade/)
