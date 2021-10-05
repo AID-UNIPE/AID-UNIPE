@@ -15,6 +15,7 @@
 6. [Novo marco regulatório brasileiro](#6-novo-marco-regulatório-brasileiro)
 7. [Onde estamos](#7-onde-estamos)
 8. [Fale conosco](#8-fale-conosco)
+9. [Doações](#9-doações)
 
 ## 1. Quem somos
 
@@ -98,6 +99,18 @@ Chegue até nós:
 
 ## 8. Fale conosco
 
+![instagram](/qr-codes/300x300/insta.jpg)
+
 INSTAGRAM: [@aid_unipejp](https://www.instagram.com/aid_unipejp)
+
+## 9. DOAÇÕES
+
+Doe os equipamentos de informática de sua organização e ajude a levar inclusão digital a nossa sociedade e a preservar nosso meio ambiente.
+
+Os equipamentos podem ser deixados diretamente em nosso coletor, localizado no campus do UNIPÊ, ou ainda, entrando em contato conosco através do whatsapp.
+
+![whatsapp](/qr-codes/300x300/doe.jpg)
+
+
 
 UNIPE: [Serviços à comunidade](https://www.unipe.edu.br/servicos-a-comunidade/)
